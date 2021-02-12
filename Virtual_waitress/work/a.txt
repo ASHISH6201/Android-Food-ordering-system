@@ -1,0 +1,10 @@
+         XYZ Restaurant        
+-------------------------------
+Table No:10
+Item		Qty		Price
+chocolate ice cream	1	x  80
+-------------------------------
+         Total:Total:80        
+Order Time:Mon, 21 Mar 2016 13:59:54
+Payment Time:Tue, 5 Apr 2016 10:30:31
+         Thank You        
