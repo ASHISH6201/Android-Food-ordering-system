@@ -1,0 +1,12 @@
+         XYZ Restaurant        
+-------------------------------
+Table No:2
+Item		Qty		Price
+masala papad	1	x  30
+veg soup	1	x  80
+*chicken fried rice	1	x  120
+-------------------------------
+         Total:Total:120        
+Order Time:Sun, 12 Feb 2017 18:12:14
+Payment Time:Sun, 12 Feb 2017 18:13:49
+         Thank You        
